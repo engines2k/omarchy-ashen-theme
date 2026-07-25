@@ -1,0 +1,28 @@
+[colors]
+[colors.primary]
+background = "#f9fdff"
+foreground = "#424258"
+
+[colors.normal]
+black   = "#f9fdff"
+red     = "#424258"
+green   = "#939384"
+yellow  = "#726846"
+blue    = "#0a537c"
+magenta = "#414766"
+cyan    = "#4c6264"
+white   = "#424258"
+
+[colors.bright]
+black   = "#6c6c65"
+red     = "#de0000"
+green   = "#007a00"
+yellow  = "#958a55"
+blue    = "#00b3f4"
+magenta = "#ff345a"
+cyan    = "#7ce1e9"
+white   = "#1c222a"
+
+[colors.cursor]
+text   = "#f9fdff"
+cursor = "#424258"
