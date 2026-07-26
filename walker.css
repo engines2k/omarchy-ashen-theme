@@ -1,6 +1,26 @@
 @define-color selected-text #1874ab;
-@define-color text #2A251F;
+@define-color text #3B3B50;
 @define-color base #f9fdff;
 @define-color border #424258;
 @define-color foreground #2A251F;
 @define-color background #f9fdff;
+
+.box-wrapper {
+	border-radius: 5px;
+}
+
+window child:selected .item-box {
+    background: alpha(@selected-text, 0.18);
+}
+
+
+window .item-box {
+    padding: 0 8px;
+    border-radius: 5px;
+    transition: background 150ms ease;
+}
+
+window child:selected .item-box * {
+    color: @selected-text;
+    transition: color 150ms ease;
+}
