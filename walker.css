@@ -5,6 +5,10 @@
 @define-color foreground #2A251F;
 @define-color background #f9fdff;
 
+window * {
+    font-size: 16px;
+}
+
 .box-wrapper {
 	border-radius: 5px;
 }
