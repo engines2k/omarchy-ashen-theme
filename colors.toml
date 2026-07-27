@@ -34,7 +34,7 @@ green = "#51a45d"
 yellow = "#e7b45d"
 blue = "#0a537c"
 magenta = "#9c85a7"
-cyan = "#30a1a9"
+cyan = "#446881"
 orange = "#d55d52"
 brown = "#803831"
 
@@ -53,7 +53,7 @@ color2 = "#51a45d"
 color3 = "#e7b45d"
 color4 = "#0a537c"
 color5 = "#9c85a7"
-color6 = "#30a1a9"
+color6 = "#446881"
 color7 = "#424258"
 
 # Bright colors (ANSI 8-15)
