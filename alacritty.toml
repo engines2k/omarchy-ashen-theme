@@ -5,22 +5,22 @@ foreground = "#424258"
 
 [colors.normal]
 black   = "#f9fdff"
-red     = "#424258"
-green   = "#939384"
-yellow  = "#726846"
+red     = "#cd4034"
+green   = "#51a45d"
+yellow  = "#e7b45d"
 blue    = "#0a537c"
-magenta = "#414766"
-cyan    = "#4c6264"
+magenta = "#9c85a7"
+cyan    = "#30a1a9"
 white   = "#424258"
 
 [colors.bright]
 black   = "#6c6c65"
-red     = "#de0000"
+red     = "#a51d2d"
 green   = "#007a00"
-yellow  = "#958a55"
+yellow  = "#b68618"
 blue    = "#00b3f4"
-magenta = "#ff345a"
-cyan    = "#7ce1e9"
+magenta = "#9e2475"
+cyan    = "#0094c3"
 white   = "#1c222a"
 
 [colors.cursor]
