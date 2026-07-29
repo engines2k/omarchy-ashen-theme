@@ -8,20 +8,20 @@
 @define-color foreground #424258;
 
 @define-color black #f9fdff;
-@define-color red #424258;
-@define-color green #939384;
-@define-color yellow #9f8256;
+@define-color red #ea0000;
+@define-color green #2d6c53;
+@define-color yellow #987c46;
 @define-color blue #0a537c;
-@define-color magenta #414766;
-@define-color cyan #0a7091;
+@define-color magenta #9870ac;
+@define-color cyan #446881;
 @define-color white #424258;
 @define-color bright_black #6c6c65;
-@define-color bright_red #de0000;
-@define-color bright_green #007a00;
-@define-color bright_yellow #958a55;
-@define-color bright_blue #00b3f4;
-@define-color bright_magenta #ff345a;
-@define-color bright_cyan #7ce1e9;
+@define-color bright_red #ea0000;
+@define-color bright_green #2d6c53;
+@define-color bright_yellow #987c46;
+@define-color bright_blue #56b0df;
+@define-color bright_magenta #9870ac;
+@define-color bright_cyan #446881;
 @define-color bright_white #1c222a;
 
 /* Adwaita color overrides (libadwaita / GTK4) */
