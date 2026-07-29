@@ -1,9 +1,3 @@
-/**
- * Aether Theme with Sharp Corners (Hyprland-inspired)
- * GTK4 / libadwaita + GTK3 legacy
- */
-
-/* Dynamic color palette from Aether */
 @define-color background #f9fdff;
 @define-color foreground #424258;
 
@@ -195,7 +189,6 @@ toast button.circular.flat.image-button:hover {
     background-color: @red;
 }
 
-/* Sharp corners, Hyprland-inspired */
 * {
-    border-radius: 0;
+    border-radius: 6;
 }
