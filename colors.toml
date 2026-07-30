@@ -10,7 +10,7 @@ background = "#f9fdff"
 
 # Normal colors (ANSI 0-7)
 color0 = "#f9fdff"
-color1 = "#ea0000"
+color1 = "#ab1818"
 color2 = "#2d6c53"
 color3 = "#987c46"
 color4 = "#0a537c"
@@ -20,7 +20,7 @@ color7 = "#424258"
 
 # Bright colors (ANSI 8-15)
 color8 = "#6c6c65"
-color9 = "#ea0000"
+color9 = "#ab1818"
 color10 = "#2d6c53"
 color11 = "#987c46"
 color12 = "#56b0df"
