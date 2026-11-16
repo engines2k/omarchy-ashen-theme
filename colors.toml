@@ -4,6 +4,9 @@ mode = "light"
 accent = "#0a537c"
 cursor = "#424258"
 
+# Hyprland window borders (white active border)
+hyprland_active_border = "#ffffff"
+
 # Primary colors
 foreground = "#424258"
 background = "#f9fdff"
